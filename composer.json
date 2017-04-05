@@ -13,18 +13,19 @@
         "type":"package",
         "package": {
           "name": "nvrdll/NotificationPusher",
-          "version":"master",
+          "version":"1.0",
           "source": {
               "url": "https://github.com/nvrdll/NotificationPusher",
               "type": "git",
-              "reference":"master"
+              "reference":"1.0"
             }
         }
     }
 ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.*"
+        "illuminate/support": "4.*",
+        "nvrdll/NotificationPusher": "1.0"
     },
     "autoload": {
         "psr-0": {
