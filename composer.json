@@ -24,8 +24,7 @@
 ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.*",
-        "nvrdll/NotificationPusher": "2.*"
+        "illuminate/support": "4.*"
     },
     "autoload": {
         "psr-0": {
