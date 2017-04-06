@@ -8,7 +8,7 @@
             "email": "info@neverdull.nl"
         }
     ],
-    repositories": [
+    "repositories": [
     {
         "type":"package",
         "package": {
